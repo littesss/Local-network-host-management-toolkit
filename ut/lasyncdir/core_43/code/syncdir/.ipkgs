@@ -1,0 +1,5 @@
+zlib.i686
+zlib-devel.i686
+zlib-static.i686
+zlib-static.x86_64
+unzip
